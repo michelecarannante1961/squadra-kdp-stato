@@ -1,0 +1,35 @@
+data,seed,mercato,keyword,domanda,concorrenza,opportunita,note
+2026-08-25,crescita personale,IT,finanza personale per principianti,Media,Media,🟡,tema sempre richiesto
+2026-08-25,ricette e cucina,IT,ricettario vuoto da compilare,Media,Media,🟡,low-content ma serve angolo specifico
+2026-08-25,ricette e cucina,IT,ricette friggitrice ad aria,Alta,Alta,🔴,saturissimo
+2026-08-25,attività per bambini,IT,quaderno prescrittura pregrafismo,Alta,Alta,🔴,affollatissimo
+2026-08-25,attività per bambini,IT,attività con la CAA comunicazione aumentativa,Media,Media,🟢,nicchia specialistica
+2026-08-25,fitness e dimagrimento,IT,allenamento a casa senza attrezzi 30 giorni,Alta,Alta,🔴,tema battuto
+2026-08-25,hobby e manualità,IT,diario di giardinaggio,Media,Media,🟡,diversi player ma nessuno dominante; serve angolo (orto bio/balcone)
+2026-08-25,hobby e manualità,EN,gardening journal log book,Alta,Alta,🔴,mercato saturo con editori affermati (Paige Tate & Co e altri)
+2026-08-25,rimedi naturali e salute,IT,rimedi naturali per dormire / il sonno,Media,Bassa,🟢,pochi titoli dedicati recenti in IT, nessun autore affermato
+2026-08-25,rimedi naturali e salute,EN,herbal remedies for sleep,Alta,Alta,🔴,saturo, autori affermati (Maria Noel Groves, David Hoffmann)
+2026-08-25,planner e agende,IT,diario di gratitudine,Alta,Media,🟡,Papeterie Bleu domina ma spazio per angoli specifici
+2026-08-25,planner e agende,EN,gratitude journal,Alta,Alta,🔴,categoria dedicata affollatissima, editori affermati (Insight Editions)
+2026-08-25,planner e agende,IT,planner budget mensile,Media,Media,🟡,prodotti abbastanza generici, spazio per angolo specifico (freelance/famiglie)
+2026-08-25,planner e agende,EN,budget planner,Alta,Alta,🔴,categoria dedicata satura, editore reale (Sourcebooks)
+2026-08-26,meditazione e spiritualità,IT,diario di meditazione quotidiana,Media,Alta,🟡,~8 prodotti simili self-pub minori nessun dominante ma generico
+2026-08-26,meditazione e spiritualità,EN,guided meditation journal for anxiety,Alta,Alta,🔴,decine di log book quasi identici nicchia matura
+2026-08-26,animali domestici,IT,diario salute e addestramento cucciolo,Media,Bassa,🟢,pochi log dedicati resto guide generiche o datate 2013
+2026-08-26,animali domestici,EN,dog training log book / pet health record book,Alta,Alta,🔴,tanti log concorrenti publisher ricorrente Cartba
+2026-08-26,matrimoni ed eventi,IT,agenda matrimonio da compilare / budget matrimonio,Alta,Alta,🔴,prodotti ricorrenti gia affermati Diario Del Matrimonio Reindl
+2026-08-26,matrimoni ed eventi,EN,wedding planner checklist / budget wedding planner organizer,Alta,Alta,🔴,nicchia matura player consolidati The Knot Ella Dawn Creations
+2026-08-26,narrativa romance,IT,romantasy / cozy fantasy romance (rom-com fantasy matrimonio combinato streghe cozy),Alta,Bassa,🟢,pochi titoli nativi italiani per lo piu traduzioni trend internazionale fortissimo non ancora saturo in IT
+2026-08-26,narrativa romance,EN,cozy fantasy romance,Alta,Alta,🔴,categoria dedicata ufficiale su amazon.com decine di titoli autori affermati nicchia matura
+2026-08-26,narrativa fantasy,IT,fantasy con accademia magica (academy fantasy romance),Alta,Media,🟡,3-4 titoli dedicati nessuno chiaramente dominante
+2026-08-26,narrativa fantasy,EN,academy romance / fantasy academy romance,Alta,Alta,🔴,decine di serie consolidate Zodiac Academy Firestone Academy Aurelith Academy
+2026-08-26,viaggi,IT,diario di viaggio da compilare,Media,Alta,🔴,molti prodotti quasi identici anche per singola destinazione
+2026-08-26,viaggi,EN,travel journal log book,Alta,Alta,🔴,decine di log book quasi intercambiabili nessuno spazio libero
+2026-08-27,finanza personale,IT,kakebo diario di bilancio giapponese risparmio,Alta,Alta,🔴,mercato maturo saturo tanti editori simili attivi da anni (Sambubooks EMMECI Feem Kokua)
+2026-08-27,finanza personale,EN,kakeibo budget journal,Alta,Alta,🔴,saturo presente anche edizione editoriale ufficiale (Fumiko Chiba Penguin)
+2026-08-27,finanza personale,IT,libro sfida risparmio 52 settimane,Media,Bassa,🟢,ricerca dominata da raccoglitori fisici con buste nessun libro KDP dedicato trovato da validare preferenza formato
+2026-08-27,finanza personale,EN,52 week money saving challenge tracker,Alta,Alta,🔴,decine di libri KDP quasi identici nicchia matura
+2026-08-27,scuola e compiti,IT,agenda/tracker compiti bambini con caselle da spuntare,Media,Bassa,🟢,pochi libri KDP dedicati al format specifico per lo più agende generiche o strumenti autismo/ADHD
+2026-08-27,scuola e compiti,EN,homework tracker checklist elementary kids,Alta,Alta,🔴,tantissimi publisher dedicati (Rosey Raindrops Hompnn Press Rony Book) nicchia matura
+2026-08-27,scuola e compiti,IT,planner/diario scolastico per ADHD e DSA,Media,Bassa,🟢,pochi titoli specifici pubblicati di recente 2025/2026 nicchia emergente angolo gamification poco sfruttato
+2026-08-27,scuola e compiti,EN,homework planner for ADHD students,Alta,Alta,🔴,decine di publisher dedicati (Focus Nest Bernel Sahila AXAM Bright Desk) nicchia matura consolidata
