@@ -152,3 +152,15 @@ data,seed,mercato,keyword,domanda,concorrenza,opportunita,note
 2026-09-09,scuola e compiti,EN,study skills workbook for teens/students,Alta,Alta,🔴,categoria bestseller dedicata Study Skills su amazon.com molti titoli e publisher consolidati
 2026-09-09,scuola e compiti,EN,AI study skills workbook for students,Media,Media,🟡,angolo emergente AI-powered study skills solo 2 titoli dedicati individuati non ancora affollato ma trend non consolidato
 2026-09-09,scuola e compiti,IT,metodo di studio con intelligenza artificiale per ragazzi,Media,Bassa,🟢,nessun quaderno/guida dedicato trovato su amazon.it che unisca metodo di studio e uso pratico dell'AI per ragazzi esistono solo libri generici su AI e DSA angolo non ancora tradotto in IT
+2026-09-10,rimedi naturali e salute,IT,rimedi naturali per l'artrite e i dolori articolari,Alta,Alta,🔴,7+ titoli attivi incl. editoria tradizionale (Mindell Lanzetta) tema molto battuto simile ad altri angoli salute gia testati
+2026-09-10,rimedi naturali e salute,EN,natural remedies for arthritis joint pain,Alta,Alta,🔴,8+ titoli quasi identici categoria matura
+2026-09-10,rimedi naturali e salute,IT,ayurveda per principianti guida pratica,Media,Alta,🔴,6-7 titoli attivi incl. editoria tradizionale (Kiran Vyas) nicchia gia presidiata
+2026-09-10,rimedi naturali e salute,EN,ayurveda for beginners guide,Alta,Alta,🔴,7+ titoli consolidati incl. collana For Dummies
+2026-09-10,planner e agende,IT,diario/organizer completo per caregiver di anziani in famiglia,Media,Bassa,🟢,solo tracker mono-tema trovati (pressione farmaci) nessun planner all-in-one comparabile al formato EN assistenza familiare/badanti in forte diffusione in Italia
+2026-09-10,planner e agende,EN,caregiver planner for elderly parents,Alta,Alta,🔴,6+ publisher dedicati e consolidati (Care Press Vigilia Press Sweekar) formato all-in-one molto sviluppato
+2026-09-10,planner e agende,IT,quaderno tracker sintomi e farmaci per malattie croniche/autoimmuni,Media,Media,🟡,pochi prodotti comprensivi trovati (Diario di una spoonie copre bene angolo generico) spazio per varianti piu specifiche fibromialgia endometriosi
+2026-09-10,planner e agende,EN,chronic illness symptom and medication tracker journal,Alta,Alta,🔴,6+ titoli quasi identici categoria matura
+2026-09-10,ricette e cucina,IT,ricette one pot pentola unica facili,Media,Alta,🔴,numerosi titoli attivi mix appliance-specific (Instant Pot) e generico incl. editoria tradizionale (Franco Lucia)
+2026-09-10,ricette e cucina,EN,one pot recipes cookbook,Alta,Alta,🔴,categoria storica consolidata big publisher (Adams Media)
+2026-09-10,ricette e cucina,IT,ricette senza glutine e lattosio per intolleranze alimentari,Media,Media,🟡,5+ titoli attivi ma nessun player nettamente dominante spazio per angolo piu specifico bambini fuori casa
+2026-09-10,ricette e cucina,EN,gluten free dairy free recipes cookbook,Alta,Alta,🔴,categoria consolidata big publisher (Adams Media Everything series)
